@@ -1,0 +1,6 @@
+source 'http://rubygems.org'
+
+gem 'httparty'
+gem 'rspec'
+gem 'faker'
+gem 'rspec_junit_formatter'
